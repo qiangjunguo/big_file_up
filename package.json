@@ -1,6 +1,6 @@
 {
   "name": "guojq_big_file_up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "大文件上传Js方法",
   "main": "index.js",
   "scripts": {
