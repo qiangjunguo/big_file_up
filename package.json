@@ -1,0 +1,17 @@
+{
+  "name": "guojq_big_file_up",
+  "version": "1.0.0",
+  "description": "大文件上传Js方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bigFileUp"
+  ],
+  "author": "guojq",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
